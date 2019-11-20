@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Another path**"
-date:       2019-11-20 04:25:37 +0000
+date:       2019-11-19 23:25:38 -0500
 permalink:  another_path
 ---
 
